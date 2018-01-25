@@ -1,0 +1,18 @@
+h1 {
+	padding: 5px;
+	text-align: center;
+}
+
+input {
+	outline: none;
+	width: 281px;
+	font-size: 20px;
+	margin-left: 4px;
+	margin-right: 3px;
+	margin-bottom: 4px;
+}
+
+button {
+	font-size: 18px;
+	padding: 3px;
+}

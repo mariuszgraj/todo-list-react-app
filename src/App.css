@@ -1,0 +1,9 @@
+#container {
+	position: relative;
+	top: 100px;
+	margin: 100px auto;
+	width:380px;
+	border: 3px solid black;
+	margin: 0 auto;
+	background-color:darkcyan;
+}

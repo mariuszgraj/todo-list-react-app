@@ -1,0 +1,12 @@
+li {
+	list-style: none;
+	font-size: 20px;
+	-webkit-transition: 0.3s linear;
+	-o-transition: 0.3s linear;
+	transition: 0.3s linear;
+}
+
+.completed {
+	color:darkslategray;
+	text-decoration: line-through;
+}
